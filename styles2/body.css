@@ -10,4 +10,6 @@ body {
   flex-wrap: wrap;
   justify-content: center;
   gap: 15px;
+  max-width: 100%;
+  box-sizing: border-box;
 }
