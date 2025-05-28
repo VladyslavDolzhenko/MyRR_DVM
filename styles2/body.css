@@ -4,3 +4,10 @@ body {
   margin: 20px;
   text-align: center;
 }
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+}
